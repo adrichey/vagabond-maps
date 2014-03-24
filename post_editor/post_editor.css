@@ -1,0 +1,26 @@
+/**********************************************************/
+/*
+/* Vagabond Maps - Post Editor Styles
+/*
+/**********************************************************/
+
+/*-----------------------------------------------------------------------------------------*/
+/* Dashicons
+/* http://jameskoster.co.uk/work/using-wordpress-3-8s-dashicons-theme-plugin/
+/* http://melchoyce.github.io/dashicons/
+/*-----------------------------------------------------------------------------------------*/
+
+#vmaps_location_search { width: 100%; }
+
+#vmaps_map_container { display: block; height: 600px; }
+
+.mce-ico {
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font: normal 20px/1 'dashicons';
+	vertical-align: top;
+}
+
+.mce-i-vmaps_single_post_map_embed:before { content: "\f230"; }
+
+.mce-i-vmaps_full_map_embed:before { content: "\f231"; }

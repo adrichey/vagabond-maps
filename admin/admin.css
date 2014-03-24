@@ -1,0 +1,15 @@
+/**********************************************************/
+/*
+/* Vagabond Maps - Admin Subpage Styles
+/*
+/**********************************************************/
+
+table { margin: 1em 0; }
+
+#vmaps_enabled_post_types_form { margin: 1em 0 3em 0; }
+
+#vmaps_loc_search { width: 100%; }
+
+#vmaps_map_container { display: block; height: 600px; }
+
+#vmaps_start_loc_form { margin: 1em 0; }
